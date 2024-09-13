@@ -1,0 +1,68 @@
+.workParent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 50%;
+    flex-direction: column;
+    border-top: 1px solid #e7eae0;
+}
+
+
+.workImg {
+    height: 25px;
+    width: 25px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.workHeader {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    font-family: 'Spline Sans Mono', monospace;
+    color: #e7eae0;
+    font-size: 20px;
+}
+
+.workEntry {
+    display: fixed;
+    justify-content: left;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    color: #e7eae0;
+    font-size: 15px;
+    flex-direction: column;
+    border-right: 1px solid #e7eae0;
+    margin-bottom: 20px;
+}
+
+.workLine {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    font-family: 'Spline Sans Mono', monospace;
+    color: #e7eae0;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.workIcon {
+    height: 25px;
+    width: 25px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.pLight {
+    color: #848582;
+}
+
+.pDif {
+    color: #8bd84c;
+}

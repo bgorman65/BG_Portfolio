@@ -1,0 +1,41 @@
+.parentAbout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 50%;
+    flex-direction: column;
+    border-top: 1px solid #e7eae0;
+}
+
+.aboutHeader {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    font-family: 'Spline Sans Mono', monospace;
+    color: #e7eae0;
+}
+
+.sumImg {
+    height: 30px;
+}
+
+.aboutTitle {
+    font-size: 20px;
+}
+
+.currentTxt {
+    font-size: 16px;
+    font-style: Spline Sans Mono, monospace;
+    color: #e7eae0;
+    margin-left: 5px;
+}
+
+.introTxt {
+    font-size: 16px;
+    font-style: Spline Sans Mono, monospace;
+    color: #848582;
+    margin-left: 5px;
+}

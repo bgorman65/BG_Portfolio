@@ -1,0 +1,39 @@
+.projectParent {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    color: #e7eae0;
+}
+
+.projectChild {
+    display: fixed;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    padding-left: 15px;
+    border-left: 1px solid #e7eae0;
+    margin-bottom: 20px;
+}
+
+
+.pd {
+    color: #848582;
+}
+
+.pg {
+    color: #8bd84c;
+}
+
+
+.projectChild li {
+    color: #848582;
+}
+
+.line {
+    gap: 20px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}

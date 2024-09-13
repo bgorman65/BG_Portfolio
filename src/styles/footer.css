@@ -1,0 +1,32 @@
+.footerParent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: auto;
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: #e7eae0;
+}
+
+.lc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    font-size: 20px;
+    flex-wrap: wrap;
+}
+
+.r {
+    color: rgb(255, 60, 60)
+}
+
+.b {
+    color: #4670fcde
+}  
+
+.y {
+    color: rgb(204, 204, 18)
+}

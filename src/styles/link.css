@@ -1,0 +1,19 @@
+.link {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.link-img {
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+}
+
+.link-txt {
+    font-size: 18px;
+    color: #8bd84c;
+    text-decoration: none;
+    font-family: Spline Sans Mono, monospace;
+}
