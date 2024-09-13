@@ -17,7 +17,7 @@ function Header() {
                 </div>
                 <div className="line">
                     <img src={require("../images/download.png")} alt="Resume" className="icon"/>
-                    <a href="/Resume.pdf" download="Barry_Gorman_Resume.pdf" className="resumeTxt">Resume</a>
+                    <a href="/Resume_2024.pdf" download="Barry_Gorman_Resume.pdf" className="resumeTxt">Resume</a>
                 </div>
             </div>
         </div>
